@@ -1,0 +1,37 @@
+body{
+	font-family: 'Rokkitt', serif;
+}
+.menu{
+	margin-top: 20px;
+}	
+.menu ul li{
+	display: inline-block;
+	text-decoration: none;   
+	text-align: center;
+	padding: 10px;
+	font-family:'Open Sans';
+}
+.menu ul li a{  
+	text-align: center;
+	color: #fff;
+}
+
+.menu ul li a:hover{
+	color:	#DC143C;
+}
+h1 .hero2{
+	font-size: 32px;
+	line-height: 28px;
+	margin-bottom: 20px;
+	color: #5A5A5A;
+	font-family: 'Open Sans';
+}
+p{
+    font-family: Arial, Verdana, Serif;
+    font-size: 13px;
+    line-height: 22px;
+    color: #5e5668;
+}
+hr{
+	border: 3px solid #000;
+}
